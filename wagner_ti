@@ -1,0 +1,7 @@
+wagner_ti/
+    wagner_ti/
+        __init__.py
+        settings.py
+        urls.py
+        wsgi.py
+    manage.py
